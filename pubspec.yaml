@@ -1,6 +1,6 @@
 name: move_to_back
 description: "move task to back plugin"
-version: 0.0.1
+version: 3.0.0
 homepage: https://github.com/doersoul/move_to_back
 repository: https://github.com/doersoul/move_to_back
 
